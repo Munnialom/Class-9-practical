@@ -5,7 +5,8 @@ It is @ Facebook page educational
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" ![FB_IMG_1733054448406](https://github.com/user-attachments/assets/750d7607-4208-4f2c-a23d-a2cc3dca22cb)
+content="width=device-width, initial-scale=1.0">
     <title>Class 9 Practical</title>
     <style>
         body {
